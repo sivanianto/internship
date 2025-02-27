@@ -1,0 +1,35 @@
+Day 1 Report
+Introduction
+Starting my first day at [Company Name], I had a mix of excitement and uncertainty. One of my biggest concerns was whether I would have to pretend to know everything or if it was acceptable to acknowledge gaps in my knowledge and work towards improving them. However, I quickly realized that this was an environment where learning was encouraged, and asking questions was seen as a strength rather than a weakness.
+The session began with an introduction to a technique or ideology for problem-solving. I learned that panicking when faced with a difficult problem is unproductive and a waste of time. Instead, following a structured approach, even if it does not always guarantee success, can provide clarity and a better chance of arriving at a solution. This realization set the tone for the rest of the day, shaping how I engaged with the activities and discussions that followed.
+Problem-Solving Approach
+One of the first exercises we tackled was the 8-number puzzle, which had a significant impact on my approach to problem-solving. It was intriguing to see that all 20 participants, including myself, initially took the same inefficient approach—drawing multiple boxes for each iteration. This method consumed unnecessary time and effort. However, a simple optimization—using eight small paper bits instead of drawing boxes repeatedly—greatly improved efficiency and provided a much quicker solution. This exercise taught me a crucial lesson: I often stick to a single approach without exploring alternatives. By considering different methods and being open to optimization, I can improve my problem-solving efficiency.
+Another exercise that caught my interest was Sudoku. I had never been particularly patient with completing Sudoku puzzles, but this exercise made me reconsider my approach to problem-solving. Rather than giving up too soon, I realized that persistence and systematic thinking could make challenging problems more manageable. Engaging with Sudoku made me appreciate the importance of logical reasoning and structured decision-making—skills that are essential in programming and technical problem-solving.
+Key Learnings
+The day’s activities reinforced several important lessons:
+1.	Reading and Understanding the Problem: Before attempting to solve a problem, it is crucial to read and analyze the question thoroughly. Misinterpreting the question can lead to unnecessary mistakes and wasted efforts.
+2.	Understanding Constraints: Every problem has constraints that define its boundaries. Identifying and working within these constraints is critical for efficiency.
+3.	Exploring Multiple Approaches: Sticking to a single method limits creativity and problem-solving potential. Considering different perspectives can lead to optimized solutions.
+4.	The Importance of Communication: Engaging in discussions with others can bring forward new ideas and shared insights. Collaborative thinking is an essential part of problem-solving in a professional setting.
+5.	Math Concepts in Real Life: One surprising realization was how the mathematical concepts I had studied were actually useful. The reason I had not seen their practical applications earlier was due to the way the metric system was used in education. This insight reshaped my perception of mathematical problem-solving in real-world scenarios.
+Company Culture & Work Environment
+One of the highlights of the day was meeting the Surfboard team and observing their work culture. Unlike many traditional office setups, this workplace had no rigid rules, no isolated cabins, and no hierarchical barriers. Instead, the entire team worked as one unit, fostering an environment of open collaboration and mutual support.
+Coming into the office, I had a fear of not knowing enough compared to others. However, the people here made it clear that feeling this way was normal, as long as I took steps to improve. They encouraged me to embrace the learning process rather than be intimidated by it.
+What stood out the most was the confidence and passion every employee had for their work. They genuinely enjoyed what they did, which I believe was a direct result of the company’s positive work culture. There was no unnecessary pressure, yet everyone was productive and engaged. This experience reinforced the idea that the work environment plays a significant role in shaping an individual’s learning and professional growth.
+Lessons from Conversations
+Throughout the day, I had meaningful conversations with several team members. One particular statement left a lasting impression on me: “Before learning, make up your mind that you can do this. Don’t be unsure about what you want to achieve.” This advice made me realize that confidence and a clear mindset are crucial before diving into new learning experiences.
+Another key takeaway was about learning programming languages. The team emphasized that learning a language partially is fine, but it is essential to consolidate knowledge and see the bigger picture. Piecing everything together makes it easier to understand complex concepts and apply them effectively.
+The Value of a Versatile Skill Set
+One fascinating aspect of the work culture here was that there were no rigid job roles. While there were dedicated frontend and backend developers, many of them had experience in other areas like design and testing. This approach allowed them to gain a broader understanding of software development as a whole rather than being confined to a specific domain.
+This was a refreshing perspective, as it demonstrated the value of versatility in the tech industry. Developing expertise in a primary area is important, but having knowledge of other aspects of development makes a professional more adaptable and resourceful.
+Final Reflections
+As the day came to an end, I realized that my initial fear of not knowing enough was replaced with a sense of excitement about learning and growing. I left the office with the understanding that it is okay not to know everything, but what truly matters is the willingness to learn and improve.
+Even if I do not get the job, I know that I am walking away with valuable insights, a stronger problem-solving mindset, and a renewed appreciation for continuous learning. The experience reshaped my perspective on how to approach technical challenges, collaborate with teams, and adapt to new environments.
+Conclusion
+Day 1 was not just an introduction to the company but also a lesson in critical thinking, adaptability, and personal growth. The key takeaways from today’s experience will undoubtedly help me in my future career. I now understand that:
+•	Confidence and a growth mindset are essential before embarking on any learning journey.
+•	Problem-solving should be approached systematically, with an openness to different methods.
+•	Effective communication and teamwork lead to better solutions and shared learning.
+•	A positive work culture fosters innovation and motivation.
+•	Building a strong foundation in skills is crucial, rather than just chasing surface-level expertise.
+
