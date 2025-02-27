@@ -1,0 +1,91 @@
+Day 3 Report
+Introduction
+Farmer, Goose, Fox, and Rice Bag Problem
+The session began with an introduction to the Farmer, Goose, Fox, and Rice Bag Problem, a classic problem in logic and computational thinking. This problem involves a farmer who needs to transport a goose, a fox, and a bag of rice across a river. However, there are constraints that must be considered:
+1.	The farmer can only take one item at a time across the river.
+2.	The goose and the rice bag cannot be left alone together, as the goose will eat the rice.
+3.	The fox and the goose cannot be left together, as the fox will eat the goose.
+These constraints require a structured approach to find a solution that ensures all items are transported safely without any conflicts. The session emphasized the importance of breaking problems into two parts: constraints and operations.
+•	Constraints define what is given and what limitations exist.
+•	Operations determine how the problem can be solved step by step.
+Understanding these two aspects helps in systematically analyzing and solving problems. For instance, in this problem, identifying that the farmer must make multiple trips across the river is key to finding an efficient solution.
+Operations Defined
+•	Op1: Farmer moves from Left to Right.
+•	Op2: Farmer moves from Right to Left.
+•	Op3: Farmer loads one item onto the boat.
+•	Op4: Farmer unloads an item from the boat.
+Using these operations, the correct sequence to solve the problem is:
+Op3 → Op1 → Op4 → Op2
+By following this structured approach, I learned that dividing and analyzing what is given and what is needed helps in efficiently solving problems. This logical way of thinking can be applied to various real-world problems, from coding to decision-making.
+
+Key Learnings
+One of the major takeaways from this session was understanding the importance of problem decomposition. Breaking problems into smaller parts makes them easier to analyze and solve. The key takeaways include:
+•	Dividing problems into constraints and operations leads to a clear understanding of the solution.
+•	Constraints provide the foundational rules that must be followed.
+•	Operations define possible actions and allow step-by-step problem-solving.
+•	In games like chess, success depends on applying constraints and operations effectively—each move follows specific constraints, and executing them correctly determines the outcome.
+
+Proposition
+The next part of the session introduced Propositions, a fundamental concept in logic and computing.
+Definition of Proposition
+A proposition is a statement that can either be true or false, but not both. This concept forms the basis of Boolean logic, which is widely used in computer science, mathematics, and digital circuits.
+Examples of Boolean Statements
+Below are examples of propositions where each statement has a definite truth value (either true or false):
+1.	"The sky is blue." → True
+2.	"Grass is green." → True
+3.	"Peter is male." → True
+4.	"John is female." → True
+5.	"Peter has a parent named Mary." → True
+6.	"Maria has a blue dog." → True
+7.	"Kevin has a purple cat." → (Assuming the statement is fictional, this is false.)
+8.	"Joann has a black rat." → True
+Terminal and Command Line Interface (CLI)
+A Command Line Interface (CLI) is a powerful tool that allows users to interact with a computer using text-based commands. The session focused on learning basic terminal commands, file manipulation, and GitHub integration.
+Creating a Text File Using Terminal
+One of the exercises involved creating a text file using the terminal. While it seemed straightforward, I learned a lot through research. For instance, using the vim editor for file creation and editing was new to me.
+Some useful commands I explored:
+•	vim filename.txt → Opens the Vim editor to create or edit a file.
+•	sudo → Executes commands with administrative privileges.
+•	echo "text" > filename.txt → Creates a file and writes text to it.
+
+GitHub and Version Control
+After creating a sample text file, the next task was to set up a GitHub repository and push the file using the terminal. Initially, I made the mistake of manually copying and pasting the file into my GitHub repository, which is not the correct approach. Instead, I learned the proper workflow using Git commands:
+1.	Initialize Git using git init
+2.	Commit changes using git commit -m "Initial commit"
+3.	Create a branch 
+4.	Set the remote origin using git remote add origin <GitHub URL>
+5.	Push the file using git push origin main
+This hands-on experience gave me insight into the importance of version control and repository management in software development.
+ 
+Problems Faced and Solutions
+Issue 1: Password Authentication Removed
+While pushing my file, I encountered the error:
+"Support for password authentication was removed."
+Solution
+GitHub no longer allows password-based authentication for security reasons. Instead, I had to create a GitHub personal access token (PAT) and use it in place of a password.
+Steps I followed:
+1.	Went to GitHub Settings → Developer Settings → Personal Access Tokens.
+2.	Generated a new classic token with the required permissions.
+3.	Used the token instead of my password in the terminal.
+
+Issue 2: Access Denied Error
+After fixing the first issue, I encountered another error:
+"Access denied."
+Solution
+Initially, I assumed this was due to SSH and GPG key issues or different hosts. However, the actual mistake was pasting the token in the wrong place when setting the remote origin.
+By correcting the repository URL and reconfiguring the authentication, I was able to successfully push the file.
+
+Additional Learnings
+While troubleshooting these issues, I gained valuable insights into SSH keys, GPG keys, and authentication mechanisms in GitHub. Specifically, I researched:
+•	How to generate SSH keys and use them for secure authentication.
+•	The difference between HTTPS and SSH-based authentication in GitHub.
+•	The role of GPG keys in signing commits to verify authorship.
+This experience emphasized the importance of debugging, persistence, and continuous learning in software development.
+Conclusion
+•	Breaking problems into constraints and operations improves logical thinking.
+•	Command-line is essential for efficient development workflows.
+•	Debugging and troubleshooting skills are necessary for solving real-world programming challenges.
+•	Research and googling made a fun learning since there was no specific time limit complete the work.
+
+
+
